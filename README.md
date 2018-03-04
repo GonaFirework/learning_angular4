@@ -1,3 +1,6 @@
+# 해당 learning_angular4는 inflearn의 아래 강좌를 바탕으로 작성한 코드입니다.
+https://www.inflearn.com/course/angular-%EA%B0%95%EC%A2%8C-%EA%B8%B0%EB%B3%B8/
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
